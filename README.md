@@ -5,7 +5,7 @@
 
 计划学习内容：
 
-- [ ] Java基础：MIT 6.092: Introduction To Programming In Java
+- [x] Java基础：MIT 6.092: Introduction To Programming In Java
 - [ ] 数据结构与算法：CS61B: Data Structures and Algorithms
 - [ ] 数据库系统：UCB CS186: Introduction to Database System
 - [ ] C基础：NJU CPL2024
